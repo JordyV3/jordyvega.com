@@ -26,7 +26,7 @@ export const AboutCard = () => {
             {new Date().getFullYear() - 2020} años.
           </Text>
           <Text py="2">
-            He trabajado en Google, IBM y Eventbrite. Soy GDE (Google Developer
+            He desarrollado aplicaciones web de Reactjs, tambien he desarrollado aplicaciones moviles. y proximamente sere GDE (Google Developer
             Expert) en Tecnologías Web.
           </Text>
           <Text py="2">
