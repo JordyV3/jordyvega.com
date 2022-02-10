@@ -103,9 +103,9 @@ export const Footer = () => {
                 </NextLink>
               </ListItem>
               <ListItem>
-                <NextLink href="/p/mentoria">
+                {/* <NextLink href="/p/mentoria">
                   <Link>Mentoría</Link>
-                </NextLink>
+                </NextLink> */}
               </ListItem>
               <ListItem>
                 <NextLink href="/p/sobre-mi">
