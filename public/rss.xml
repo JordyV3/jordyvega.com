@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JORDY VEGA - Desarrollador Web]]></title>
+        <description><![CDATA[Web y blog sobre desarrollo web]]></description>
+        <link>https://carlosazaustre.es</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 10 Feb 2022 03:26:37 GMT</lastBuildDate>
+        <atom:link href="https://carlosazaustre.es/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[2011-2022 Jordy Vega]]></copyright>
+        <language><![CDATA[es]]></language>
+        <webMaster><![CDATA[Jordy Vega]]></webMaster>
+        <item>
+            <title><![CDATA[UMG 2022 - Universidad en tiempos de COVID 😷]]></title>
+            <link>https://carlosazaustre.es/UMG2022</link>
+            <guid isPermaLink="true">https://carlosazaustre.es/UMG2022</guid>
+            <category><![CDATA[🙋🏻‍♂️ Personal]]></category>
+            <category><![CDATA[💻 Desarrollo]]></category>
+            <category><![CDATA[✏️ Universidad]]></category>
+            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
