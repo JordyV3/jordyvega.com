@@ -30,7 +30,8 @@ export const AboutCard = () => {
             Expert) en Tecnologías Web.
           </Text>
           <Text py="2">
-            Llevo {new Date().getFullYear() - 2022} años documentando en éste blog, comento todo lo que aprendo y hago en mi vida como estudiante y desarrollador web esto con el fin de compartir mis conocimientos y mi opinion con las personas.
+            Llevo {new Date().getFullYear() - 2022} años documentando en éste blog, comento todo lo que aprendo y hago en mi vida como estudiante y desarrollador web esto con el fin de 
+            compartir mis conocimientos y mi opinion con las demas personas.
           </Text>
         </Box>
       </Fragment>
