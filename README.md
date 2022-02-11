@@ -1,14 +1,25 @@
 # JordyVega.com
 
 > Personal website/blog
+https://jordyvega-com.vercel.app/
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-## How to made a blog like this
+## **How to made a blog like this**
 
-#[![How to made a blog using Next, React, and MarkdownX](https://user-images.githubusercontent.com/81053948/153328467-002cc191-7070-41f3-8000-031134ba6a02.png)](https://jordyvega-com.vercel.app/)
+## Home page
+[![How to made a blog using Next, React, and MarkdownX](https://user-images.githubusercontent.com/81053948/153328467-002cc191-7070-41f3-8000-031134ba6a02.png)](https://jordyvega-com.vercel.app/)
 
-## Technologies
+## Blog
+![image](https://user-images.githubusercontent.com/81053948/153530205-d0b7b623-ad79-4ce2-b4e7-2a3073ce7922.png)
+
+## Cursos
+![image](https://user-images.githubusercontent.com/81053948/153530316-d8e718e1-0b61-43b5-9b3a-8b4ff6ca4490.png)
+
+## About 
+![image](https://user-images.githubusercontent.com/81053948/153530367-fd0675d3-163f-40c3-b1bf-e9e6e441c69a.png)
+
+# Technologies
 
 - Next.js
 - React.js
@@ -17,9 +28,11 @@
 - MarkdownX
 - Vercel
 
-## Support
+# Support
 
-Me puedes contactar para aclarar dudas sobre el proyecto 🙂
+Me puedes contactar para aclarar dudas sobre el proyecto 🙂 .
+
+#
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
