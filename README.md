@@ -1,11 +1,10 @@
-# JordyVega.com
+# jordyvega.com
 
 > Personal website/blog
 https://jordyvega-com.vercel.app/
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-## **How to made a blog like this**
 
 ## Home page
 [![How to made a blog using Next, React, and MarkdownX](https://user-images.githubusercontent.com/81053948/153328467-002cc191-7070-41f3-8000-031134ba6a02.png)](https://jordyvega-com.vercel.app/)
